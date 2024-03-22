@@ -17,10 +17,10 @@ BabbleBridge is a groundbreaking project that leverages advanced machine learnin
 
 # Getting Started
 To get started with BabbleBridge, follow these steps:
-- **1. Clone the Repository**: git clone https://github.com/YourGitHub/BabbleBridge.git 
-- **2. Install Dependencies**: Navigate to the project directory and install the required libraries using pip install -r requirements.txt.
-- **3. Set Up Environment**: Follow the setup instructions in the setup.md file to configure your environment.
-- **4. Run BabbleBridge**: Use the provided scripts to start the BabbleBridge model and begin translating infant babbling.
+**1. Clone the Repository**: git clone https://github.com/YourGitHub/BabbleBridge.git 
+**2. Install Dependencies**: Navigate to the project directory and install the required libraries using pip install -r requirements.txt.
+**3. Set Up Environment**: Follow the setup instructions in the setup.md file to configure your environment.
+**4. Run BabbleBridge**: Use the provided scripts to start the BabbleBridge model and begin translating infant babbling.
 
 # How It Works
 BabbleBridge utilizes a combination of acoustic analysis, natural language processing, and machine learning algorithms to interpret and translate infant vocalizations. The model architecture is designed to capture the nuances of infant sounds and their possible meanings, leveraging state-of-the-art AI techniques for accurate translations.
