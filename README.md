@@ -17,7 +17,7 @@ BabbleBridge is a groundbreaking project that leverages advanced machine learnin
 
 # Getting Started
 To get started with BabbleBridge, follow these steps:
-1. **Clone the Repository**: git clone https://github.com/YourGitHub/BabbleBridge.git 
+1. **Clone the Repository**: git clone https://github.com/machaoqun123/BabbleBridge.git 
 2. **Install Dependencies**: Navigate to the project directory and install the required libraries using pip install -r requirements.txt.
 3. **Set Up Environment**: Follow the setup instructions in the setup.md file to configure your environment.
 4. **Run BabbleBridge**: Use the provided scripts to start the BabbleBridge model and begin translating infant babbling.
